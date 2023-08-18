@@ -6,7 +6,7 @@ def insert_element(array, element, index):
 
 
 array = [1, 2, 3, 4, 5]
-element = 6
+element = 6  #element 
 index = 2
 
 insert_element(array, element, index)
