@@ -55,7 +55,7 @@ print("Original linked list:")
 my_linked_list.display()
 
 # Deleting a node with value 2
-value_to_delete = 6 # list
+value_to_delete = 6 # list delete 
 my_linked_list.delete_node(value_to_delete)
 
 print("\nLinked list after deletion:")
