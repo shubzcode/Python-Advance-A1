@@ -1,6 +1,6 @@
 # Binary search: A searching algorithm that divides the array in half and recursively
 # searches the half that contains the target value.
-# Method 1
+# Method 2
 def binary_search(arr, target):
     low = 0
     high = len(arr) - 1
