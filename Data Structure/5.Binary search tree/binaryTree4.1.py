@@ -1,4 +1,6 @@
 # A python program that finds the minimum and maximum elements in a binary search tree.
+# Method 1
+
 class Node:
     def __init__(self, data):
         self.data = data
