@@ -1,4 +1,5 @@
-# a Python program Bubble sort: A simple sorting algorithm that repeatedly compares adjacent elements and swaps them if they are in the wrong order.
+# a Python program Bubble sort: A simple sorting algorithm that repeatedly 
+# compares adjacent elements and swaps them if they are in the wrong order.
 def bubble_sort(array):
     for i in range(len(array) - 1):
         for j in range(len(array) - i - 1):
