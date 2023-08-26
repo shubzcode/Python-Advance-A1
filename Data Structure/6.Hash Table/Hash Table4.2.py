@@ -1,4 +1,5 @@
 # A python program that sorts a list of elements using a hash table.
+# Method 2
 def hash_sort(arr):
     # Find the range of elements in the array
     min_val = min(arr)
