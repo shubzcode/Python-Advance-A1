@@ -1,5 +1,5 @@
-    # * Selection sort: A sorting algorithm that repeatedly selects the smallest
-    # element from the unsorted part of the array and moves it to the sorted part.
+# * Selection sort: A sorting algorithm that repeatedly selects the smallest
+# element from the unsorted part of the array and moves it to the sorted part.
 
 def selection_sort(array):
     for i in range(len(array)):
