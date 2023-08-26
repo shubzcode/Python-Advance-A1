@@ -1,4 +1,6 @@
-Sure, here are some examples of Python programs that work with algorithms:
+* **Algorithms:** Python programs that implement algorithms, such as sorting algorithms, searching algorithms, and graph algorithms.
+
+Python programs that work with algorithms:
 
 * **Sorting algorithms:**
     * Bubble sort: A simple sorting algorithm that repeatedly compares adjacent elements and swaps them if they are in the wrong order.
