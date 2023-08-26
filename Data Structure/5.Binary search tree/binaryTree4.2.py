@@ -1,5 +1,5 @@
 # A python program that finds the minimum and maximum elements in a binary search tree.
-# Method 1
+# Method 2
 class TreeNode:
     def __init__(self, key):
         self.left = None
