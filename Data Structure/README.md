@@ -18,7 +18,7 @@ Some Python Advance python Programs
 
 
 
-Sure, here are some examples of Python programs that work with data structures:
+here are some examples of Python programs that work with data structures:
 
 * **Array programs:**
     * A program that creates an array of numbers and then sorts the array using a sorting algorithm.
