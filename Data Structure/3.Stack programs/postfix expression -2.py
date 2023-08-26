@@ -1,4 +1,6 @@
 # A python program that evaluates a postfix expression using a stack.
+# Method 2
+
 class Stack:
     def __init__(self):
         self.items = []
