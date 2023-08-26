@@ -29,6 +29,8 @@ def main():
 
     prim(graph)
     mst = set()
+    mst.add((vertex, neighbor))
+
 
 
     print("The minimum spanning tree is", mst)
