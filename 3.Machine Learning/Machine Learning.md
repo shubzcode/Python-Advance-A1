@@ -1,0 +1,3 @@
+Linear regression: This is a simple algorithm that can be used to predict a continuous value, such as the price of a house or the number of sales made. The program can be implemented using the LinearRegression class from the sklearn.linear_model module.
+Logistic regression: This is a more complex algorithm that can be used to predict a categorical value, such as whether or not a customer will churn. The program can be implemented using the LogisticRegression class from the sklearn.linear_model module.
+Support vector machines (SVM): This is a powerful algorithm that can be used for both classification and regression tasks. The program can be implemented using the SVC class from the sklearn.svm module.
