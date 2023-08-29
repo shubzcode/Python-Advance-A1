@@ -1,6 +1,7 @@
 # This program predicts a continuous value, such as the price of a house,
 # based on a set of features, such as the number of bedrooms and the square footage.
 #Linear Regration Method 1
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
