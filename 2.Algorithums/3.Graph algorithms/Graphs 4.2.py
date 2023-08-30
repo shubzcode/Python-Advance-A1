@@ -1,4 +1,5 @@
 # Prim's algorithm: An algorithm for finding the minimum spanning tree of a weighted graph.
+#method 2 
 import heapq
 
 class Graph:
