@@ -1,5 +1,5 @@
 # Prim's algorithm: An algorithm for finding the minimum spanning tree of a weighted graph.
-# Method 1
+# Method 1 Algorithum
     
 import heapq
 def prim(graph):
